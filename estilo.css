@@ -1,0 +1,19 @@
+* { margin: 1;
+	padding: 1; }
+
+body { background-color: #155992;
+	   font-family: arial; }
+	   
+h1 { text-align: center;
+	 font-size: 70px;
+	 color: #2EFF00;}
+	 
+#imagem { display: block;
+		  margin-left: auto;
+		  margin-right: auto; }
+	
+p { font-family: arial;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold; 
+color:  #2EFF00;} 
